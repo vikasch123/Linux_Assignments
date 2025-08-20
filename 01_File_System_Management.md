@@ -1,5 +1,5 @@
 
-![[pasted file 1.png]]
+![](Screenshots/pasted file 1.png)
 
 
 1)
@@ -9,27 +9,35 @@
 ```
 
 
-![[2025-08-20_12-57.png]]
+![](Screenshots/2025-08-20_12-57.png)
 
 **Alternate approach**
 
 ```
 # find . -type f -exec du -h {} \; | sort -rh | head -5 
 ```
-
+---
 
 2)
 
-![[2025-08-20_13-08.png]]
+![](Screenshots/2025-08-20_13-08.png)
+
+---
 
 
-3)
+3a) 
 
-![[group_user.png]]
+![](Screenshots/group_user.png)
 
-![[3a.png]]
+---
+3b)
 
-![[3b.png]]
+
+![](Screenshots/3a.png)
+
+![](Screenshots/3b.png)
+
+---
 
 
 
