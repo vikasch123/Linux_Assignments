@@ -1,30 +1,34 @@
 Questions
 
-![[ass3.png]]
 
+![](Screenshots/ass3.png)
+
+---
 
 1)
 
-![[mem1.png]]
+![](Screenshots/mem1.png)
 
-![[mem2.png]]
-
-
-![[mem3.png]]
+![](Screenshots/mem2.png)
 
 
-
-![[mem4.png]]
+![](Screenshots/mem3.png)
 
 
 
-![[mem5.png]]
+![](Screenshots/mem4.png)
+
+
+
+![](Screenshots/mem5.png)
+
+---
 
 
 2)
 
-![[mem6.png]]
+![](Screenshots/mem6.png)
 
-![[mem7.png]]
+![](Screenshots/mem7.png)
 
 
